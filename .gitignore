@@ -1,0 +1,7 @@
+outputs/
+source_records/
+*.xlsx
+*.XML
+__pycache__/
+.venv/
+.DS_Store
